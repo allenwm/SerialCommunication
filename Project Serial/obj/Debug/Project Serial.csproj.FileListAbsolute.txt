@@ -1,0 +1,27 @@
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\bin\Debug\Project Serial.exe.config
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\bin\Debug\Project Serial.exe
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\bin\Debug\Project Serial.pdb
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project Serial.csprojResolveAssemblyReference.cache
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project_Serial.Form1.resources
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project_Serial.Properties.Resources.resources
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project Serial.csproj.GenerateResource.Cache
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project Serial.exe
+E:\openCV document\OpenCV Kinect\Project Serial\Project Serial\obj\Debug\Project Serial.pdb
+E:\Allen\Project C#\Project Serial\Project Serial\bin\Debug\Project Serial.exe.config
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project Serial.exe
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project Serial.pdb
+E:\Allen\Project C#\Project Serial\Project Serial\bin\Debug\Project Serial.exe
+E:\Allen\Project C#\Project Serial\Project Serial\bin\Debug\Project Serial.pdb
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project Serial.csprojResolveAssemblyReference.cache
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project_Serial.Form1.resources
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project_Serial.Properties.Resources.resources
+E:\Allen\Project C#\Project Serial\Project Serial\obj\Debug\Project Serial.csproj.GenerateResource.Cache
+E:\Allen\C# document\Project Serial\Project Serial\bin\Debug\Project Serial.exe.config
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project Serial.exe
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project Serial.pdb
+E:\Allen\C# document\Project Serial\Project Serial\bin\Debug\Project Serial.exe
+E:\Allen\C# document\Project Serial\Project Serial\bin\Debug\Project Serial.pdb
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project Serial.csprojResolveAssemblyReference.cache
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project_Serial.Form1.resources
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project_Serial.Properties.Resources.resources
+E:\Allen\C# document\Project Serial\Project Serial\obj\Debug\Project Serial.csproj.GenerateResource.Cache
